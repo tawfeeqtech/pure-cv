@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b8b5ab1-543d-436a-82b9-868fc6c58e29" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="2PgppdNpIlgXymgJDwUipEOhdQO" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/__laravel-tutorial/mohammed-safadi/messenger-app/messenger" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\mrProject" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\mrProject" />
+      <recent name="C:\xampp\htdocs\mrProject\assets\_include" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b8b5ab1-543d-436a-82b9-868fc6c58e29" name="Default Changelist" comment="" />
+      <created>1683888762708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683888762708</updated>
+      <workItem from="1683888764122" duration="50202000" />
+      <workItem from="1684115298217" duration="5870000" />
+      <workItem from="1684149857963" duration="8939000" />
+      <workItem from="1684349949262" duration="36000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="205" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1683896396875">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="395" y="205" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1683896396875" />
+    <state x="413" y="62" key="FileChooserDialogImpl" timestamp="1684349984147">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="62" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1684349984147" />
+    <state x="314" y="146" key="com.intellij.ide.util.TipDialog" timestamp="1684349965143">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="314" y="146" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1684349965143" />
+    <state x="317" y="27" width="731" height="674" key="find.popup" timestamp="1684115665737">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="317" y="27" width="731" height="674" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1684115665737" />
+  </component>
+</project>
